@@ -1,7 +1,7 @@
 {
-  "name": "genshin-shop-server",
+  "name": "stripe-server",
   "version": "1.0.0",
-  "description": "Backend server for Genshin Shop with Stripe and Twilio integration",
+  "description": "Stripe payment server for Genshin Shop",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

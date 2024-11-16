@@ -28,7 +28,6 @@ app.post("/create-payment-intent", async (req, res) => {
     }
 });
 
-
 // Root route for testing
 app.get("/", (req, res) => {
     res.send("Stripe Server is running!");
